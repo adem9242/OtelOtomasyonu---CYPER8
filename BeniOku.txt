@@ -1,0 +1,2 @@
+Projeyi çalýþtýrmadan önce cyper8 db yi kurup sonrasýnda kullanýcýadý ve þifre belirleyip giriþ yapmamýz daha iyi olacaktýr.Otel otomasyonunun devamý için çalýþmaktayým
+Rezervasyon ve tüm kayýtlarý içeren bir desktop uygulamasýdýr.Akýnsoftun Wolvox projesinden esinlenilmiþtir.
